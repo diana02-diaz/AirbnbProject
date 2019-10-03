@@ -1,2 +1,0 @@
-# AirbnbProject
-Created with CodeSandbox

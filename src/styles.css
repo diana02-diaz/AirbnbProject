@@ -1,0 +1,72 @@
+body {
+  font-family: sans-serif;
+  background-color: pink;
+}
+
+#section1 {
+  height: 25em;
+  width: 100%;
+}
+
+#housepicture {
+  height: 25em;
+  width: 46em;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+#address {
+  text-align: center;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 1.2em;
+  margin-top: 0.4em;
+}
+
+ul {
+  list-style-type: none;
+  /*background-color: aqua;*/
+  padding: 15px;
+}
+
+.listing-atributes li {
+  padding: 10px;
+  display: inline-block;
+}
+
+.amenities li {
+  padding: 10px;
+}
+
+.amenities img {
+  width: 50px;
+  margin-right: 10px;
+  vertical-align: middle;
+}
+
+#Description {
+  border: 5px solid red;
+  padding: 15px;
+}
+
+#Price {
+  float: right;
+  padding-right: 150px;
+}
+
+#Price-Amount {
+  font-weight: bold;
+  font-size: 40px;
+}
+#host {
+  background-color: lightblue;
+  border: 5px solid grey;
+}
+
+.HostInformation {
+  font-family: "Times New Roman", Times;
+}
+
+#h {
+  padding-left: 10px;
+}
